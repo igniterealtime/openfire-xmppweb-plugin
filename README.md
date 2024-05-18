@@ -1,6 +1,6 @@
 # Openfire Xmppweb Plugin
 
-The Xmppweb plugin adds a web client to Openfire. Converse is a third party web client implementation. It's project home page is [https://github.com/nioc/xmpp-web](https://github.com/nioc/xmpp-web).
+The Xmppweb plugin adds a web client to Openfire. XMPP-web is a third party web client implementation. It's project home page is [https://github.com/nioc/xmpp-web](https://github.com/nioc/xmpp-web).
 
 ## CI Build Status
 
