@@ -8,7 +8,7 @@
     </parent>
     <groupId>org.igniterealtime.openfire.plugins</groupId>
     <artifactId>xmppweb</artifactId>
-    <version>0.10.0.1-SNAPSHOT</version>
+    <version>0.10.2.2-SNAPSHOT</version>
     <name>xmppweb</name>
     <description>Adds the (third-party) xmpp-web client to Openfire.</description>
     <build>
