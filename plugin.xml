@@ -6,8 +6,7 @@
     <author>Guus der Kinderen</author>
     <version>${project.version}</version>
     <date>2024-11-20</date>
-    <minServerVersion>4.8.0</minServerVersion>
-    <priorToServerVersion>5.0.0</priorToServerVersion>
+    <minServerVersion>5.0.0</minServerVersion>
     <adminconsole>
         <tab id="tab-webclients" name="${admin.sidebar.webclients.name}" description="${admin.sidebar.webclients.description}" url="xmppweb-config.jsp">
             <sidebar id="tab-xmppweb" name="${admin.sidebar.webclients.item.xmppweb.name}" description="${admin.sidebar.webclients.item.xmppweb.description}">
