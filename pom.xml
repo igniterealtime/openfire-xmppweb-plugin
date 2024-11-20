@@ -4,11 +4,11 @@
     <parent>
         <artifactId>plugins</artifactId>
         <groupId>org.igniterealtime.openfire</groupId>
-        <version>4.8.0</version>
+        <version>5.0.0-SNAPSHOT</version>
     </parent>
     <groupId>org.igniterealtime.openfire.plugins</groupId>
     <artifactId>xmppweb</artifactId>
-    <version>0.10.2.2-SNAPSHOT</version>
+    <version>0.10.3.2-SNAPSHOT</version>
     <name>xmppweb</name>
     <description>Adds the (third-party) xmpp-web client to Openfire.</description>
     <build>
@@ -19,8 +19,8 @@
             </plugin>
             <!-- Compiles the Openfire Admin Console JSP pages. -->
             <plugin>
-                <groupId>org.eclipse.jetty</groupId>
-                <artifactId>jetty-jspc-maven-plugin</artifactId>
+                <groupId>org.eclipse.jetty.ee8</groupId>
+                <artifactId>jetty-ee8-jspc-maven-plugin</artifactId>
             </plugin>
         </plugins>
     </build>
